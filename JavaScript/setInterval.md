@@ -1,3 +1,5 @@
+### setInterval
+
 ```
 const intervalID = setInterval(myCallback, 2000);
 const myCallback = () => {
