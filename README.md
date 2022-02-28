@@ -6,6 +6,7 @@
 
 ## JavaScript
 
+- [Date]()
 - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
 
 ## React
