@@ -8,6 +8,7 @@
 
 - [Date](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Date.md)
 - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
+- [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
 
 ## React
 
