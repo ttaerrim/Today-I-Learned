@@ -15,4 +15,5 @@
 
 ## Web
 
+- [HTTP Method](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/HTTP%20Method.md)
 - [RESTful API](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/RESTful%20API.md)
