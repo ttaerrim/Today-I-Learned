@@ -6,6 +6,7 @@
 
 ## JavaScript
 
+- [동기와 비동기](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 - [Date](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Date.md)
 - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
 - [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
