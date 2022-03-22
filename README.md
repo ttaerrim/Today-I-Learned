@@ -15,6 +15,7 @@
 - [이벤트 버블링](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%B2%84%EB%B8%94%EB%A7%81.md)
 - [callback](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/callback.md)
 - [Date](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Date.md)
+- [Promise](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Promise.md)
 - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
 - [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
 
