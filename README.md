@@ -10,12 +10,18 @@
 
 ## JavaScript
 
-- [동기와 비동기](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+- ### 비동기 통신
+
+  - [동기와 비동기](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+  - [callback](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/callback.md)
+
+  - [Promise](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Promise.md)
+  - [fetch](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/fetch.md)
+
 - [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [이벤트 버블링](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%B2%84%EB%B8%94%EB%A7%81.md)
-- [callback](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/callback.md)
+
 - [Date](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Date.md)
-- [Promise](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Promise.md)
 - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
 - [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
 
