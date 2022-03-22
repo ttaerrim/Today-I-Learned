@@ -87,4 +87,5 @@ Life Cycle Method는 한국어로 생명 주기 메서드라고 부른다. 브�
 
 ### 참고
 
-[react lifecycle method diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+[react lifecycle method diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)  
+[25. LifeCycle Method](https://react.vlpt.us/basic/25-lifecycle.html)
