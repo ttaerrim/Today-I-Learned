@@ -47,30 +47,34 @@ myPromise
 
 ```javascript
 function asyncWork(value) {
-    return new Promise((resolve, reject) => {
-        setTimeout(() => {
-            value -= 20;
-            if (value > 50) {
-                resolve(value);
-            } else {
-                reject(value);
-            }
-        })
-    })
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      value -= 20;
+      if (value > 50) {
+        resolve(value);
+      } else {
+        reject(value);
+      }
+    });
+  });
 }
 
-asyncWork(100).then((value) => {
+asyncWork(100)
+  .then((value) => {
     console.log(value);
     return asyncWork(value);
-}).then((value) => {
+  })
+  .then((value) => {
     console.log(value);
     return asyncWork(value);
-})then((value) => {
+  })
+  .then((value) => {
     console.log(value);
     return asyncWork(value);
-}).catch((error) => {
-    console.log('catch: ' + error);
-})
+  })
+  .catch((error) => {
+    console.log("catch: " + error);
+  });
 ```
 
 ```console
