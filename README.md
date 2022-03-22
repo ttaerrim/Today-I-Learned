@@ -18,6 +18,8 @@
   - [Promise](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Promise.md)
   - [fetch](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/fetch.md)
 
+  - [Async와 Await](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Async%EC%99%80%20Await.md)
+
 - [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [이벤트 버블링](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%B2%84%EB%B8%94%EB%A7%81.md)
 
