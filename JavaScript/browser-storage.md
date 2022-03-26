@@ -8,6 +8,8 @@ Web Storage란 HTML5부터 제공하는 기능으로, 해당 도메인과 관련
 
 Web Storage는 사이트의 도메인 단위로 접근이 제한된다. A 도메인에서 저장한 데이터는 B 도메인에서 조회할 수 없다.
 
+웹 스토리지는 보안성이 없으므로 인증, 결제와 관련된 중요 정보를 저장해서는 안 된다.
+
 ### ✔️ 로컬 스토리지 (Local Storage)
 
 로컬 스토리지는 브라우저에 반영구적으로 데이터를 저장하며 브라우저를 종료해도 데이터가 유지된다. 도메인이 다른 경우에는 로컬 스토리지에 접근할 수 없다. `www.google.com`에서 로컬 스토리지에 저장한 데이터를 `www.naver.com`에서 접근할 수 없다는 뜻이다.
@@ -30,6 +32,8 @@ console.log(localStorage.getItem("item3"));
 콘솔에는 다음과 같이 출력된다.
 
 <img width="154" alt="스크린샷 2022-03-26 21 59 28" src="https://user-images.githubusercontent.com/43867711/160240538-f6d459ad-9041-4655-b4e7-941b873b3616.png"/>
+
+로컬 스토리지에는 문자열만 사용할 수 있고, 숫자나 객체 등을 저장하면 자동으로 문자열로 캐스팅된다.
 
 ### ✔️ 세션 스토리지 (Session Storage)
 
@@ -89,6 +93,7 @@ console.log(sessionStorage.getItem("item3"));
 
 ### 🚩 참고
 
+[ES6로 기초부터 다시 배우는 자바스크립트 파워북](http://www.yes24.com/Product/Goods/93235652)  
 [웹 스토리지 (Web Storage)의 특성과 사용법](https://untitledtblog.tistory.com/47)  
 [브라우저 저장소(웹저장소), Cookie, Session란?](https://akdl911215.tistory.com/317?category=975797)  
 [쿠키와 document.cookie](https://ko.javascript.info/cookie)
