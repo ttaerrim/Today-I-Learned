@@ -25,6 +25,7 @@
 - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
 - [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
 - [프로토타입](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/prototype.md)
+- [브라우저 저장소](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser-storage.md)
 
 ## React
 
