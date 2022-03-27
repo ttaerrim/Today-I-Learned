@@ -233,6 +233,23 @@ obj.func(); // 10
 
 `obj.func`는 원래대로라면 암시적 바인딩이 이루어져야 하지만 obj 객체의 func을 호출한 곳은 전역 스코프이므로 `obj.num`인 2가 아닌 `window.num`인 10이 `this.num`이 된다.
 
+이런 식으로 메소드를 정의할 때 화살표 함수를 사용하게 되면 상위 컨텍스트인 Window를 가리키므로 화살표 함수로 메소드를 정의하는 것은 바람직하지 않다. 대신 ES6의 축약 메소드 표현을 사용하자.
+
+```javascript
+var num = 10;
+
+var obj = {
+  num: 2,
+  func() {
+    console.log(this.num);
+  },
+};
+
+obj.func(); // 10
+```
+
+---
+
 ```javascript
 var num = 10;
 
