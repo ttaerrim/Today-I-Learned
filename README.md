@@ -28,6 +28,7 @@
 - [브라우저 저장소](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser-storage.md)
 - [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/execution-context.md)
 - [클로저](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/closure.md)
+- [브라우저 동작 원리](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser.md)
 
 ## React
 
