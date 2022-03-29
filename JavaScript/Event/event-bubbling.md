@@ -1,0 +1,60 @@
+## 이벤트 버블링
+
+한 요소에 이벤트가 발생하면, 그 요소에 할당된 핸들러가 동작하고, 부모 요소에 핸들러가 동작하는 현상. 그리고 이런 현상은 최상단의 조상 요소를 만날 때까지 **이벤트가 하위 요소에서 상위 요소 방향으로 전파되며** 요소에 할당된 핸들러가 동작한다.
+
+```
+<button onClick='{(e) => {console.log(e.target)}}'>
+    <img svg />
+</button>
+```
+
+이런 이미지가 중첩된 버튼을 가지고 있을 때 `e.target`을 콘솔에 출력하면 `<button>`이 콘솔에 출력되기도, `<img>`가 콘솔에 출력되기도 하는 이유이다.
+
+<img width="462" alt="스크린샷 2022-03-10 18 46 08" src="https://user-images.githubusercontent.com/43867711/157635534-c220bf40-725f-4a1e-a140-30a4beb9a98e.png">
+
+위의 그림과 같이 중첩된 요소가 있을 때 가장 안쪽에 있는 요소 3을 클릭하면 순서대로 다음과 같은 일이 벌어진다.
+
+1. 3에 할당된 이벤트 핸들러가 동작한다.
+2. 바깥의 2에 할당된 이벤트 핸들러가 동작한다.
+3. 그 바깥의 1에 할당된 이벤트 핸들러가 동작한다.
+4. document 객체를 만날 때까지 각 요소에 할당된 핸들러가 동작한다.
+
+### `이벤트가 제일 안쪽에서부터 부모를 거슬러 올라가며 발생하는 이러한 흐름을 **이벤트 버블링**이라고 부른다`
+
+## `event.target`과 `this(= event.currentTarget)`
+
+- `event.target`은 실제 이벤트가 시작된 **타깃** 요소
+- `this(event.currentTarget)`은 **현재** 요소로, 현재 실행 중인 핸들러가 할당된 요소를 참조
+
+```
+<form id="form">FORM
+    <div>DIV
+      <p>P</p>
+    </div>
+</form>
+```
+
+위 코드에서 `this(event.currentTarget)`은 언제나 `<form>`을 가리키지만, `event.target`은 클릭한 요소를 가리키는 것을 확인할 수 있다.
+
+<img width="600" src="https://user-images.githubusercontent.com/43867711/157655439-83db91b3-820f-4d7f-862f-e48a3e541d45.gif" />
+
+## 버블링 중단하기
+
+`event.stopPropagation()` 메서드를 사용해 버블링을 중단하도록 명령할 수 있다.
+
+```
+<div onClick="alert(`버블링이 중단되어 도달하지 못합니다`)">
+  <button onClick="event.stopPropagation()">event stop</button>
+  <button>event bubbling</button>
+</div>
+```
+
+위 코드에서 `event.stopPropagation()` 메서드를 사용한 `event stop` 버튼의 경우 클릭해도 아무 이벤트가 발생하지 않지만, 버블링 중단을 하지 않은 `event bubbling` 버튼의 경우 클릭 시 `div`에 할당된 핸들러가 작동하는 것을 볼 수 있다.
+
+<img width="600" src="https://user-images.githubusercontent.com/43867711/157639378-23deeb7b-fcf7-45dc-9aaf-6b980d493cc7.gif" />
+
+그렇지만 꼭 필요한 경우를 제외하고는 버블링을 막지 않는 것이 좋다고 한다. 버블링을 막는 것이 아닌 커스텀 이벤트 등을 사용해 문제를 해결할 수 있다고 한다.
+
+### 참고
+
+[버블링과 캡처링](https://ko.javascript.info/bubbling-and-capturing)
