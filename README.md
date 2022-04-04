@@ -52,5 +52,6 @@
 ## Web
 
 - [HTTP Method](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/HTTP%20Method.md)
+- [HTTP vs. HTTPS](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/HTTP-HTTPS.md)
 - [RESTful API](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/RESTful%20API.md)
 - [SSR과 CSR](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/ssr-csr-spa.md)
