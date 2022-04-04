@@ -1,5 +1,17 @@
 # 브라우저 동작 원리
 
+## ✔️ 웹 동작 방식
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdmomKO%2FbtqK84xb9yy%2FktAElZQp6AFyxgXG35eORk%2Fimg.png" />
+
+1. 사용자가 브라우저 주소 창에 접속하고자 하는 웹의 URL을 입력한다.
+2. URL이 브라우저에게 전달되고, 브라우저는 DNS를 통해 서버의 IP 주소를 찾는다.
+3. HTTP 프로토콜을 사용하여 HTTP 요청 메시지를 생성한다.
+4. TCP/IP 연결을 통해 HTTP 요청 메시지가 서버로 전송된다.
+5. 서버는 HTTP 프로토콜을 사용하여 HTTP 응답 메시지를 생성한다.
+6. TCP/IP 연결을 통해 HTTP 응답 메시지를 요청한 클라이언트에게 전달한다.
+7. 도착한 HTTP 응답 메시지는 웹 페이지 데이터로 변환되고 브라우저에 의해 출력되어 사용자에게 보여진다.
+
 ## ✔️ 브라우저의 기본 구조
 
 브라우저의 주요 구성 요소는 다음과 같다.

@@ -38,7 +38,6 @@
 - [브라우저 저장소](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser-storage.md)
 - [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/execution-context.md)
 - [클로저](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/closure.md)
-- [브라우저 동작 원리](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser.md)
 
 ## React
 
@@ -55,3 +54,4 @@
 - [HTTP vs. HTTPS](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/HTTP-HTTPS.md)
 - [RESTful API](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/RESTful%20API.md)
 - [SSR과 CSR](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/ssr-csr-spa.md)
+- [브라우저 동작 원리](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/browser.md)

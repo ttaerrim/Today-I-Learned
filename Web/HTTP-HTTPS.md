@@ -18,6 +18,8 @@ HTTPS는 HTTP에 암호화가 포함된 개념이다.
 
 기존 HTTP 프로토콜과 비교해서 HTTPS는 SSL(Secure Sockets Layer)라는 보안 계층이 TCP 위에 추가되고, 보안이 보장된 통신을 할 수 있다. SSL이나 암호화된 TCP 연결인 TLS(Transport Layer Security)를 통해 전송된다는 것이다.
 
+정리하면, HTTPS는 HTTP 메시지를 암호화하는 것이며, HTTPS에서 S는 **Secure Socket**, **공개키 암호화 방식**을 거쳐 암호화하는 **통신 보안망**을 말한다.
+
 따라서 HTTPS는 HTTP보다 비교적 안전하다.
 
 HTTP를 사용하는 웹사이트는 URL이 http://로 시작하고, HTTPS를 사용하는 웹사이트는 URL이 https://로 시작하는 것을 알 수 있다.
