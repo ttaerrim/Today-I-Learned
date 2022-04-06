@@ -48,6 +48,7 @@
 - [렌더링 성능 최적화](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/rendering-performance-optimization.md)
 - [Virtual DOM](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/virtualDOM.md)
 - [Context API](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Context-api.md)
+- [Flux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/flux-pattern.md)
 
 ## Web
 
