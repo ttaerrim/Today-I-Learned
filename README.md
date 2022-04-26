@@ -55,6 +55,7 @@
 - [Context API](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Context-api.md)
 - [Flux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/flux-pattern.md)
 - [useState 동작 방식](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/usestate.md)
+<<<<<<< HEAD
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 - [React 18](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/react-v18.md)
 
@@ -64,6 +65,9 @@
 
   - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
   - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
+=======
+- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
+>>>>>>> ff75b88 ([Update] React - lazy)
 
 ## Web
 
