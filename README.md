@@ -50,6 +50,7 @@
 - [Context API](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Context-api.md)
 - [Flux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/flux-pattern.md)
 - [useState 동작 방식](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/usestate.md)
+- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
 
 ## Web
 
