@@ -5,6 +5,7 @@
 - [고속 거듭제곱 알고리즘](https://github.com/ttaerrim/Today-I-Learned/blob/main/Algorithm/%EA%B3%A0%EC%86%8D%20%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 ## CSS
+
 - [BEM 방법론](https://github.com/ttaerrim/Today-I-Learned/blob/main/CSS/BEM-methodology.md)
 
 ## Data Structure
@@ -48,7 +49,6 @@
 ## React
 
 - [리액트의 라이프 사이클](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lifecycle.md)
-
 - [proxy 설정하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/proxy%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
 - [렌더링 성능 최적화](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/rendering-performance-optimization.md)
 - [Virtual DOM](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/virtualDOM.md)
@@ -57,6 +57,10 @@
 - [useState 동작 방식](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/usestate.md)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
+>>>>>>> 3dd3511 ([Update] React - React18)
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 - [React 18](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/react-v18.md)
 <<<<<<< HEAD
@@ -67,6 +71,7 @@
 
   - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
   - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
+<<<<<<< HEAD
 =======
 - [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
 <<<<<<< HEAD
@@ -91,6 +96,8 @@
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 >>>>>>> 89105fe ([Update] React - Hydrate)
 >>>>>>> 1439978 ([Modify] README 수정)
+=======
+>>>>>>> 3dd3511 ([Update] React - React18)
 
 ## Web
 
