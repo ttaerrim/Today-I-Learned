@@ -59,6 +59,7 @@
 <<<<<<< HEAD
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 - [React 18](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/react-v18.md)
+<<<<<<< HEAD
 
 - ### Next.js
   - [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
@@ -76,6 +77,8 @@
 =======
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 >>>>>>> 89105fe ([Update] React - Hydrate)
+=======
+>>>>>>> 6dc7260 ([Update] React - React18)
 
 ## Web
 
