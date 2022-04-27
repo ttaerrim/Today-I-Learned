@@ -68,10 +68,14 @@
   - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
 =======
 - [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
+<<<<<<< HEAD
 >>>>>>> ff75b88 ([Update] React - lazy)
 =======
 - [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
 >>>>>>> ff75b88 ([Update] React - lazy)
+=======
+- [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
+>>>>>>> 89105fe ([Update] React - Hydrate)
 
 ## Web
 
