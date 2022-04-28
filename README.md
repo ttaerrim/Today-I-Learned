@@ -42,9 +42,8 @@
 ## React
 
 - [리액트의 라이프 사이클](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lifecycle.md)
-- [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+
 - [proxy 설정하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/proxy%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
-- [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux.md)
 - [렌더링 성능 최적화](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/rendering-performance-optimization.md)
 - [Virtual DOM](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/virtualDOM.md)
 - [Context API](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Context-api.md)
@@ -52,6 +51,12 @@
 - [useState 동작 방식](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/usestate.md)
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 - [React 18](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/react-v18.md)
+
+- ### Next.js
+  - [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+- ### Redux
+
+  - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
 
 ## Web
 
