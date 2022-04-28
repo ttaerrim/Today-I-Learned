@@ -80,6 +80,12 @@
 =======
 >>>>>>> 6dc7260 ([Update] React - React18)
 
+- ### Next.js
+  - [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+- ### Redux
+
+  - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
+
 ## Web
 
 - [HTTP Method](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/HTTP%20Method.md)
