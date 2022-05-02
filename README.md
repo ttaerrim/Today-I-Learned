@@ -69,3 +69,4 @@
 - [RESTful API](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/RESTful%20API.md)
 - [SSR과 CSR](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/ssr-csr-spa.md)
 - [브라우저 동작 원리](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/browser.md)
+- [데이터 레이어](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/dataLayer.md)
