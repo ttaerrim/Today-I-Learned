@@ -72,6 +72,7 @@
 <<<<<<< HEAD
 >>>>>>> ff75b88 ([Update] React - lazy)
 =======
+<<<<<<< HEAD
 - [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
 >>>>>>> ff75b88 ([Update] React - lazy)
 =======
@@ -86,6 +87,10 @@
 
   - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
   - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
+=======
+- [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
+>>>>>>> 89105fe ([Update] React - Hydrate)
+>>>>>>> 1439978 ([Modify] README 수정)
 
 ## Web
 
