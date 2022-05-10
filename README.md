@@ -93,11 +93,20 @@
   - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
   - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
 =======
+<<<<<<< HEAD
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 >>>>>>> 89105fe ([Update] React - Hydrate)
 >>>>>>> 1439978 ([Modify] README 수정)
 =======
 >>>>>>> 3dd3511 ([Update] React - React18)
+=======
+- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
+<<<<<<< HEAD
+>>>>>>> ff75b88 ([Update] React - lazy)
+=======
+- [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
+>>>>>>> 89105fe ([Update] React - Hydrate)
+>>>>>>> d3e89ea ([Modify] README 수정)
 
 ## Web
 
