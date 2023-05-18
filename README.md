@@ -32,19 +32,19 @@
 
   - [이벤트 루프](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Event/event-loop.md)
 
-- [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
-- [JavaScript의 this](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/this.md)
+  - [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+  - [JavaScript의 this](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/this.md)
 
-- [Date](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Date.md)
-- [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
-- [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
-- [프로토타입](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/prototype.md)
-- [브라우저 저장소](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser-storage.md)
-- [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/execution-context.md)
-- [클로저](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/closure.md)
-- [getter](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/getter.md)
-- [느낌표 두 개 연산자(!!)](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/double-exclamation.md)
-- [URLSearchParams](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/URLSearchParams.md)
+  - [Date](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/Date.md)
+  - [setInterval](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/setInterval.md)
+  - [var-let-const](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/var-let-const.md)
+  - [프로토타입](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/prototype.md)
+  - [브라우저 저장소](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/browser-storage.md)
+  - [실행 컨텍스트](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/execution-context.md)
+  - [클로저](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/closure.md)
+  - [getter](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/getter.md)
+  - [느낌표 두 개 연산자(!!)](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/double-exclamation.md)
+  - [URLSearchParams](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/URLSearchParams.md)
 
 ## React
 
@@ -55,19 +55,10 @@
 - [Context API](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Context-api.md)
 - [Flux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/flux-pattern.md)
 - [useState 동작 방식](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/usestate.md)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 - [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
->>>>>>> 3dd3511 ([Update] React - React18)
-=======
-- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
->>>>>>> 5388852 ([Update] React - React18)
+
 - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
 - [React 18](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/react-v18.md)
-<<<<<<< HEAD
 
 - ### Next.js
   - [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
@@ -75,45 +66,14 @@
 
   - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
   - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
-<<<<<<< HEAD
-=======
-- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
-<<<<<<< HEAD
->>>>>>> ff75b88 ([Update] React - lazy)
-=======
-<<<<<<< HEAD
-- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
->>>>>>> ff75b88 ([Update] React - lazy)
-=======
-- [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
->>>>>>> 89105fe ([Update] React - Hydrate)
-=======
->>>>>>> 6dc7260 ([Update] React - React18)
 
-- ### Next.js
-  - [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
-- ### Redux
+  - [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
 
-  - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
-  - [connect vs useSelector](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/connect-and-useSelector.md)
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-- [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
->>>>>>> 89105fe ([Update] React - Hydrate)
->>>>>>> 1439978 ([Modify] README 수정)
-=======
->>>>>>> 3dd3511 ([Update] React - React18)
-=======
-- [React.lazy](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/lazy.md)
-<<<<<<< HEAD
->>>>>>> ff75b88 ([Update] React - lazy)
-=======
-- [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
->>>>>>> 89105fe ([Update] React - Hydrate)
->>>>>>> d3e89ea ([Modify] README 수정)
-=======
->>>>>>> 5388852 ([Update] React - React18)
+  - [Hydration](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/hydration.md)
+
+- ### Three
+
+  - [useProgress](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/three/useProgress.md)
 
 ## Web
 
