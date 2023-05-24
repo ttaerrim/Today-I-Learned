@@ -45,6 +45,7 @@
   - [getter](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/getter.md)
   - [느낌표 두 개 연산자(!!)](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/double-exclamation.md)
   - [URLSearchParams](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/URLSearchParams.md)
+  - [Fetch vs Axios Error handling](https://github.com/ttaerrim/Today-I-Learned/blob/main/JavaScript/fetch-vs-axios-error-handling.md)
 
 ## React
 
