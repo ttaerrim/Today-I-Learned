@@ -87,3 +87,7 @@
 - [SSR과 CSR](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/ssr-csr-spa.md)
 - [브라우저 동작 원리](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/browser.md)
 - [데이터 레이어](https://github.com/ttaerrim/Today-I-Learned/blob/main/Web/dataLayer.md)
+
+## Etc
+
+- [모노레포 도구와 패키지 매니저](https://github.com/ttaerrim/Today-I-Learned/blob/main/Etc/monorepo-tooling-and-package-manager.md)
