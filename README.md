@@ -66,7 +66,10 @@
 - [useReducer](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/useReducer.md)
 
 - ### Next.js
+
   - [Next.js 시작하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/Next.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+  - [next/font 사용하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Next.js/next-font.md)
+
 - ### Redux
 
   - [Redux](https://github.com/ttaerrim/Today-I-Learned/blob/main/React/Redux/Redux.md)
