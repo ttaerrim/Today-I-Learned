@@ -96,3 +96,5 @@
 
 - [모노레포 도구와 패키지 매니저](https://github.com/ttaerrim/Today-I-Learned/blob/main/Etc/monorepo-tooling-and-package-manager.md)
 - [Turborepo에서 internal package 사용하기](https://github.com/ttaerrim/Today-I-Learned/blob/main/Etc/turborepo-internal-package.md)
+- [스타일 가이드라인이 필요한 이유
+  ](https://github.com/ttaerrim/Today-I-Learned/blob/main/Etc/style-guide.md)
